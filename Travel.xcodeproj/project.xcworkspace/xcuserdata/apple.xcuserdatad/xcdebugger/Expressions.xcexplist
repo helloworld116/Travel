@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[LeftViewController tableView:didSelectRowAtIndexPath:]:LeftViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.viewDeckController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
